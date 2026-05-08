@@ -16,12 +16,12 @@ I am a second-year Master's student at Zhejiang University, supervised by Prof. 
 * **B.Eng. in CS**, Zhejiang University, Chu Kochen Honors College (2020 - 2024)
 
 # 📝 Recent Publications
-* **[CVPR 2026]** Differentiable Adaptive 4D Structured Illumination for Joint Capture of Shape and Reflectance
-  * **Huakeng Ding**, Yaowen Chen, Kun Zhou and Hongzhi Wu
-  * [[Paper(arxiv)]](https://arxiv.org/abs/2605.06214) [Supp.](/files/cvpr2026_supp.pdf)
 * **[SIGGRAPH 2026]** Learning View-Dependent Splatting Kernels
   * **Huakeng Ding\***, Zhanpeng Liu\*, Kun Zhou and Hongzhi Wu (*: equal contribution)
   * [[Project Page(coming soon)]](#) [[Paper(coming soon)]](#) [[Code((coming soon))]](#)
+* **[CVPR 2026]** Differentiable Adaptive 4D Structured Illumination for Joint Capture of Shape and Reflectance
+  * **Huakeng Ding**, Yaowen Chen, Kun Zhou and Hongzhi Wu
+  * [[Paper(arxiv)]](https://arxiv.org/abs/2605.06214) [[Supp.]](/files/cvpr2026_supp.pdf)
 * **[TVCG 2024]** Learning Photometric Feature Transform for Free-form Object Scan
   * Xiang Feng, Kaizhang Kang, Fan Pei, **Huakeng Ding**, Jinjiang You, Ping Tan, Kun Zhou, Hongzhi Wu
   * [[IEEE Xplore]](https://ieeexplore.ieee.org/document/10791813)
