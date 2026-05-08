@@ -18,6 +18,11 @@ author:
   employer         : "Zhejiang University"
   uri              : 
   email            : "dinghuakeng@qq.com" # 填入你的邮箱
+   # Academic websites 下方
+  googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AIqSsVvLeoqFUndOFb26obUfisZcaGEj2D2u2rzZZDT1YERQvQZLWOLhqYfko683sJuR3bC8KLRvbRkNVPwQdQ&user=GKASJA0AAAAJ" # 
+
+  # Repositories and software development 下方
+  github           : "Florentino-Ariza" 
 
 # Publication Category
 publication_category:
