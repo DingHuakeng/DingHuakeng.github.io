@@ -17,7 +17,7 @@ author:
   location         : "Hangzhou, China"
   employer         : "Zhejiang University"
   uri              : 
-  email(dinghuakeng@qq.com)            : "dinghuakeng@qq.com" # 填入你的邮箱
+  email            : "dinghuakeng@qq.com" # 填入你的邮箱
 
 # Publication Category
 publication_category:
