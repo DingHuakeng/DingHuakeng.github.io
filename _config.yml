@@ -1,7 +1,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Huakeng Ding (丁华铿)"
+title                    : "Huakeng Ding | 丁华铿"
 title_separator          : "-"
 name                     : &name "Huakeng Ding"
 description              : &description "M.S. Student @ ZJU CAD&CG State Key Lab. Focus on 3DGS, Differentiable Rendering, and Material Reconstruction."
@@ -11,13 +11,13 @@ repository               : "dinghuakeng/dinghuakeng.github.io" # 请确认你的
 
 # Site Author - 这里的设置决定了网页左侧栏显示的内容
 author:
-  avatar           : "profile.png" # 请确保根目录下有 profile.png 图片
-  name             : "Huakeng Ding (丁华铿)"
+  avatar           : "avatar.png" # 请确保根目录下有 profile.png 图片
+  name             : "Huakeng Ding | 丁华铿"
   bio              : "M.S. Student @ ZJU CAD&CG"
   location         : "Hangzhou, China"
   employer         : "Zhejiang University"
   uri              : 
-  email            : "dinghuakeng@qq.com" # 填入你的邮箱
+  email(dinghuakeng@qq.com)            : "dinghuakeng@qq.com" # 填入你的邮箱
 
 # Publication Category
 publication_category:
